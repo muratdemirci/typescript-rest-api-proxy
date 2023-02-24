@@ -1,0 +1,38 @@
+{
+  "france": {
+    "name": "francais-channel",
+    "language": "fre",
+    "urlPrefix": "fr",
+    "internalUrl": "https://api.publicapis.org/entries"
+  },
+  "arabia": {
+    "name": "arabi-channel",
+    "language": "ara",
+    "urlPrefix": "sa",
+    "internalUrl": "https://datausa.io/api/data?drilldowns=Nation&measures=Population"
+  },
+  "albania": {
+    "name": "albanian-channel",
+    "language": "alb",
+    "urlPrefix": "al",
+    "internalUrl": "http://universities.hipolabs.com/search?country=United+States"
+  },
+  "macedonia": {
+    "name": "macedonian-channel",
+    "language": "mac",
+    "urlPrefix": "mk",
+    "internalUrl": "https://nekos.best/api/v2/endpoints"
+  },
+  "russia": {
+    "name": "russian-channel",
+    "language": "rus",
+    "urlPrefix": "ru",
+    "internalUrl": "https://api.coindesk.com/v1/bpi/currentprice.json"
+  },
+  "germany": {
+    "name": "deutsch-channel",
+    "language": "ger",
+    "urlPrefix": "de",
+    "internalUrl": "https://www.boredapi.com/api/activity"
+  }
+}
