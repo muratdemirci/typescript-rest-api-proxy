@@ -15,7 +15,7 @@ The entire application is contained within the `app.ts` file.
 
     npm run start-ts
 
-## Run the app on prod
+## Run the app on dev
 
     npm run watch-ts
 
